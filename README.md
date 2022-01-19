@@ -1,7 +1,7 @@
 # tiktok parser
  A simple tiktok parser for the privacy download you can do on tiktok
  
- How to use:
+ # How to use:
  
  Download nodejs lts (https://nodejs.org/en/)
  
@@ -11,7 +11,7 @@
  
  Start: run.bat
  
- How to get Tiktok privacy data:
+ # How to get Tiktok privacy data:
  
  Go to tiktok settings
  
