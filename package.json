@@ -1,0 +1,12 @@
+{
+  "name": "tiktok_parser",
+  "version": "1.0.0",
+  "description": "a simple tiktok parser that parses the userdata from your tiktok account",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Henpett1#6870",
+  "license": "ISC"
+}
